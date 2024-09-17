@@ -1,0 +1,27 @@
+/* CSS HEX */
+
+/* --light-orange: #f9dbbdff;
+--atomic-tangerine: #fca17dff;
+--blush: #da627dff;
+--plum: #9a348eff;
+--dark-purple: #0d0628ff;
+https://coolors.co/palette/f9dbbd-fca17d-da627d-9a348e-0d0628 */
+
+body {
+    background-color: rgb(5, 200, 250);
+}
+
+img{
+width: 300px;
+border: 5px solid rgb(5, 200, 250);
+border-radius: 10px;
+}
+h1{
+    color: #fd0606;
+}
+h2{
+    color: rgb(255, 0, 191);
+}
+H3{
+    color: rgb(255, 0, 191);
+}
