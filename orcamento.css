@@ -1,0 +1,22 @@
+td{
+    border:  1px solid #ff00ff;
+    padding: 2px;
+    text-align: center;
+    background-color: #ff00ff;
+    border-radius: 6px;
+    color: #ffffff;
+}
+th{
+    padding: 2px;
+    text-align: center;
+    background-color: red;
+    border-radius: 6px;
+    color: #ffffff;
+}
+table{
+    background-color: #ffaaaa;
+    width: 100%;
+}
+body{
+    background-color: grey;
+}
